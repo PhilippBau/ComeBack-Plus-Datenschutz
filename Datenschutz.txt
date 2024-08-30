@@ -1,0 +1,172 @@
+Letzte Aktualisierung: August 23, 2024 
+
+Diese Datenschutzrichtlinie beschreibt unsere Richtlinien und Verfahren zur Erfassung, Nutzung und Offenlegung Ihrer Daten, wenn Sie den Dienst nutzen, und informiert Sie über Ihre Datenschutzrechte und wie das Gesetz Sie schützt.
+Wir verwenden Ihre persönlichen Daten, um den Dienst bereitzustellen und zu verbessern. Durch die Nutzung des Dienstes erklären Sie sich mit der Erfassung und Nutzung von Informationen gemäß dieser Datenschutzrichtlinie einverstanden. Diese Datenschutzrichtlinie wurde mit Hilfe des Datenschutzrichtlinien-Generators erstellt.
+Interpretation und Definitionen Auslegung
+Die Wörter, deren Anfangsbuchstaben groß geschrieben werden, haben die unter den folgenden Bedingungen definierten Bedeutungen. Die folgenden Definitionen haben dieselbe Bedeutung, unabhängig davon, ob sie im Singular oder im Plural stehen.
+Definitionen
+
+Für die Zwecke dieser Datenschutzrichtlinie:
+   
+• Konto bedeutet ein einzigartiges Konto, das für Sie erstellt wurde, um auf unseren Service oder Teile davon zuzugreifen.
+ 
+• Verbundenes Unternehmen bedeutet ein Unternehmen, das eine Partei kontrolliert, von ihr kontrolliert wird oder mit ihr unter gemeinsamer Kontrolle steht, wobei "Kontrolle" den Besitz von 50 % oder mehr der Aktien, Kapitalanteile oder anderer Wertpapiere bedeutet, die zur Wahl von Direktoren oder anderen leitenden Angestellten berechtigt sind.
+ 
+• Die Anwendung bezieht sich auf ComeBack +, das Softwareprogramm, das von der Gesellschaft bereitgestellt wird.
+ 
+• Ihr Vertragspartner sind Philipp Baumann und Lukas Peric, Mundeslheimerstraße 14, 74074 Heilbronn. Diese werden im Folgenden „Loofile“ oder Unternehmen genannt.
+ 
+• Land bezieht sich auf: Baden-Württemberg, Deutschland
+ 
+• Gerät bedeutet jedes Gerät, das auf den Service zugreifen kann, wie z.B. ein Computer, ein Mobiltelefon oder ein digitales Tablet.
+  
+• Personenbezogene Daten sind alle Informationen, die sich auf eine
+identifizierte oder identifizierbare Person beziehen.
+ 
+• Service bezieht sich auf die Anwendung.
+ 
+• Dienstleister bezeichnet jede natürliche oder juristische Person, die die Daten
+im Auftrag des Unternehmens verarbeitet. Er bezieht sich auf Drittunternehmen oder Einzelpersonen, die vom Unternehmen beschäftigt werden, um die Dienstleistung zu erleichtern, die Dienstleistung im Namen des Unternehmens 
+zu erbringen, Dienstleistungen im Zusammenhang mit der Dienstleistung zu erbringen oder das Unternehmen bei der Analyse der Nutzung der Dienstleistung zu unterstützen.
+ 
+• Nutzungsdaten beziehen sich auf automatisch erfasste Daten, die entweder durch die Nutzung des Dienstes oder durch die Infrastruktur des Dienstes selbst erzeugt werden (zum Beispiel die Dauer eines Seitenbesuchs).
+ 
+• Sie bezeichnet die Person, die auf den Service zugreift oder ihn nutzt, bzw. das Unternehmen oder eine andere juristische Person, in deren Namen eine solche Person auf den Service zugreift oder ihn nutzt.
+   
+Erhebung und Verwendung Ihrer persönlichen Daten
+ 
+Arten der gesammelten Daten
+ 
+Personenbezogene Daten
+ 
+Während der Nutzung unseres Dienstes können wir Sie bitten, uns bestimmte personenbezogene Daten mitzuteilen, die dazu verwendet werden können, Sie zu kontaktieren oder zu identifizieren. Persönlich identifizierbare Informationen können unter anderem sein:
+ 
+• E-Mail-Adresse
+ 
+• Vorname und Nachname
+ 
+• Adresse, Bundesland, Provinz, Postleitzahl, Ort
+ 
+• Nutzungsdaten
+   
+Nutzungsdaten
+ 
+Benutzungsdaten werden bei der Nutzung des Dienstes automatisch erfasst.
+Nutzungsdaten können Informationen wie die Internetprotokolladresse Ihres Geräts (z. B. IP-Adresse), den Browsertyp, die Browserversion, die von Ihnen besuchten Seiten unseres Dienstes, die Uhrzeit und das Datum Ihres Besuchs, die auf diesen Seiten verbrachte Zeit, eindeutige Gerätekennungen und andere Diagnosedaten umfassen.
+Wenn Sie mit oder über ein mobiles Gerät auf den Dienst zugreifen, können wir bestimmte Informationen automatisch erfassen, einschließlich, aber nicht beschränkt auf die Art des von Ihnen verwendeten mobilen Geräts, die eindeutige ID Ihres mobilen Geräts, die IP-Adresse Ihres mobilen Geräts, Ihr mobiles Betriebssystem, die Art des von Ihnen verwendeten mobilen Internetbrowsers, eindeutige Gerätekennungen und andere Diagnosedaten.
+Wir können auch Informationen erfassen, die Ihr Browser sendet, wenn Sie unseren Dienst besuchen oder wenn Sie über ein mobiles Gerät auf den Dienst zugreifen.
+
+   
+Informationen, die während der Nutzung der Anwendung gesammelt werden
+ 
+Während der Nutzung Unserer Anwendung, um Funktionen Unserer Anwendung zur Verfügung zu stellen, können Wir, mit Ihrer vorherigen Erlaubnis, Folgendes erfassen:
+ 
+• Bilder und andere Informationen aus der Kamera und Fotobibliothek Ihres Geräts
+ 
+Wir verwenden diese Informationen, um Funktionen unseres Dienstes bereitzustellen, um unseren Dienst zu verbessern und anzupassen. Die Informationen können auf die Server des Unternehmens und/oder den Server eines Dienstanbieters hochgeladen oder einfach auf Ihrem Gerät gespeichert werden.
+Sie können den Zugriff auf diese Informationen jederzeit über Ihre Geräteeinstellungen aktivieren oder deaktivieren.
+    
+Verwendung Ihrer persönlichen Daten
+ 
+Das Unternehmen kann personenbezogene Daten für die folgenden Zwecke verwenden:
+ 
+• Zur Bereitstellung und Aufrechterhaltung unserer Dienstleistung, einschließlich der Überwachung der Nutzung unserer Dienstleistung.
+ 
+• Um Ihr Konto zu verwalten: um Ihre Registrierung als Nutzer der Dienstleistung zu verwalten. Die von Ihnen bereitgestellten persönlichen Daten können Ihnen Zugang zu verschiedenen Funktionen der Dienstleistung geben, die Ihnen als registriertem Nutzer zur Verfügung stehen.
+ 
+• Für die Erfüllung eines Vertrages: die Entwicklung, Einhaltung und Durchführung des Kaufvertrages für die Produkte, Artikel oder Dienstleistungen, die Sie gekauft haben, oder eines anderen Vertrages mit uns über den Service.
+ 
+• Um mit Ihnen in Kontakt zu treten: Um Sie per E-Mail, Telefonanrufe, SMS oder andere gleichwertige Formen der elektronischen Kommunikation zu kontaktieren, wie z. B. Push-Benachrichtigungen einer mobilen Anwendung in Bezug auf Aktualisierungen oder informative Mitteilungen im Zusammenhang mit den Funktionen, Produkten oder vertraglich vereinbarten Dienstleistungen, einschließlich der Sicherheitsupdates, wenn dies für ihre Durchführung notwendig oder angemessen ist.
+ 
+• Um Ihnen Nachrichten, Sonderangebote und allgemeine Informationen über andere Waren, Dienstleistungen und Veranstaltungen zukommen zu lassen, die wir anbieten und die denen ähnlich sind, die Sie bereits gekauft oder angefragt haben, es sei denn, Sie haben sich gegen den Erhalt solcher Informationen entschieden.
+ 
+• Um Ihre Anfragen zu verwalten: Um Ihre Anfragen an uns zu bearbeiten und zu verwalten.
+ 
+• Für Geschäftsübertragungen: Wir können Ihre Daten verwenden, um eine Fusion, Veräußerung, Umstrukturierung, Reorganisation, Auflösung oder einen anderen Verkauf oder eine Übertragung einiger oder aller unserer Vermögenswerte zu bewerten oder durchzuführen, sei es als fortbestehendes Unternehmen oder als Teil eines Konkurses, einer Liquidation oder eines ähnlichen Verfahrens, bei dem persönliche Daten, die wir über unsere Dienstleistungsnutzer besitzen, zu den übertragenen Vermögenswerten gehören.
+ 
+• Für andere Zwecke: Wir können Ihre Daten für andere Zwecke verwenden, wie z.B. zur Datenanalyse, zur Ermittlung von Nutzungstrends, zur Bestimmung der Effektivität unserer Werbekampagnen und zur Bewertung und Verbesserung unseres Service, unserer Produkte, Dienstleistungen, unseres Marketings und Ihrer Erfahrungen.
+   
+Wir können Ihre persönlichen Daten in den folgenden Situationen weitergeben:
+  
+• Mit Dienstanbietern: Wir können Ihre persönlichen Daten an Dienstanbieter weitergeben, um die Nutzung unseres Dienstes zu überwachen und zu analysieren und um Sie zu kontaktieren.
+ 
+• Für Unternehmensübertragungen: Wir können Ihre persönlichen Daten in Verbindung mit oder während der Verhandlungen über eine Fusion, den Verkauf von Unternehmensvermögen, eine Finanzierung oder die Übernahme unseres gesamten oder eines Teils unseres Unternehmens durch ein anderes Unternehmen weitergeben oder übertragen.
+ 
+• Mit verbundenen Unternehmen: Wir können Ihre Daten an unsere verbundenen Unternehmen weitergeben; in diesem Fall verpflichten wir diese Unternehmen, diese Datenschutzrichtlinie einzuhalten. Zu den verbundenen Unternehmen gehören unsere Muttergesellschaft und alle anderen Tochtergesellschaften, Joint-Venture-Partner oder andere Unternehmen, die wir kontrollieren oder die unter gemeinsamer Kontrolle mit uns stehen.
+ 
+• Mit Geschäftspartnern: Wir können Ihre Daten an unsere Geschäftspartner weitergeben, um Ihnen bestimmte Produkte, Dienstleistungen oder Werbeaktionen anzubieten.
+ 
+• Mit anderen Nutzern: Wenn Sie persönliche Informationen weitergeben oder auf andere Weise in den öffentlichen Bereichen mit anderen Nutzern interagieren, können diese Informationen von allen Nutzern eingesehen und öffentlich nach außen verbreitet werden.
+ 
+• Mit Ihrer Zustimmung: Wir können Ihre personenbezogenen Daten mit Ihrer Zustimmung für jeden anderen Zweck offenlegen.
+ 
+Aufbewahrung Ihrer persönlichen Daten
+ 
+Das Unternehmen wird Ihre personenbezogenen Daten nur so lange aufbewahren, wie es für die in dieser Datenschutzerklärung genannten Zwecke erforderlich ist. Wir werden Ihre personenbezogenen Daten in dem Umfang aufbewahren und verwenden, der erforderlich ist, um unseren rechtlichen Verpflichtungen nachzukommen (z. B. wenn wir Ihre Daten aufbewahren müssen, um geltende Gesetze einzuhalten), Streitigkeiten beizulegen und unsere rechtlichen Vereinbarungen und Richtlinien durchzusetzen.
+Das Unternehmen wird Nutzungsdaten auch für interne Analysezwecke aufbewahren. Nutzungsdaten werden im Allgemeinen für einen kürzeren Zeitraum aufbewahrt, es sei denn, diese Daten werden verwendet, um die Sicherheit oder die Funktionalität unseres Dienstes zu verbessern, oder wir sind gesetzlich verpflichtet, diese Daten für längere Zeiträume aufzubewahren.
+   
+Weitergabe Ihrer persönlichen Daten
+ 
+Ihre Informationen, einschließlich personenbezogener Daten, werden in den Betriebsbüros des Unternehmens und an anderen Orten, an denen sich die an der Verarbeitung beteiligten Parteien befinden, verarbeitet. Das bedeutet, dass diese Daten an Computer außerhalb Ihres Staates, Ihrer Provinz, Ihres Landes oder einer anderen staatlichen Gerichtsbarkeit, in der andere Datenschutzgesetze als in Ihrer Gerichtsbarkeit gelten, übertragen und dort gespeichert werden können.
+Mit Ihrer Zustimmung zu dieser Datenschutzrichtlinie und der anschließenden Übermittlung dieser Daten erklären Sie sich mit dieser Übertragung einverstanden.
+Das Unternehmen wird alle angemessenen Schritte unternehmen, um sicherzustellen, dass Ihre Daten sicher und in Übereinstimmung mit dieser Datenschutzrichtlinie behandelt werden, und es wird keine Übermittlung Ihrer persönlichen Daten an eine Organisation oder ein Land stattfinden, es sei denn, es sind angemessene Kontrollen vorhanden, die die Sicherheit Ihrer Daten und anderer persönlicher Informationen einschließen.
+   
+Löschen Sie Ihre persönlichen Daten
+ 
+Sie haben das Recht, die persönlichen Daten, die wir über Sie gesammelt haben, zu löschen oder von uns Unterstützung bei der Löschung zu verlangen.
+Unser Dienst kann Ihnen die Möglichkeit geben, bestimmte Informationen über Sie innerhalb des Dienstes zu löschen.
+Sie können Ihre Daten jederzeit aktualisieren, ändern oder löschen, indem Sie sich bei Ihrem Konto anmelden, falls Sie eines haben, und den Bereich der Kontoeinstellungen besuchen, in dem Sie Ihre persönlichen Daten verwalten können. Sie können sich auch mit uns in Verbindung setzen, um Zugang zu Ihren persönlichen Daten zu erhalten, diese zu korrigieren oder zu löschen.
+Bitte beachten Sie jedoch, dass wir unter Umständen bestimmte Informationen aufbewahren müssen, wenn wir dazu gesetzlich verpflichtet sind oder eine gesetzliche Grundlage haben.
+   
+Weitergabe Ihrer persönlichen Daten
+  
+Geschäftsvorfälle
+ 
+Wenn das Unternehmen an einer Fusion, einer Übernahme oder einem Verkauf von Vermögenswerten beteiligt ist, können Ihre personenbezogenen Daten übertragen werden. Wir werden Sie darüber informieren, bevor Ihre personenbezogenen Daten übertragen werden und einer anderen Datenschutzrichtlinie unterliegen.
+Gesetzesvollzug
+   
+Unter bestimmten Umständen kann das Unternehmen verpflichtet sein, Ihre personenbezogenen Daten offenzulegen, wenn dies gesetzlich vorgeschrieben ist oder als Reaktion auf berechtigte Anfragen von Behörden (z. B. einem Gericht oder einer Regierungsbehörde).
+    
+Sonstige rechtliche Anforderungen
+ 
+Das Unternehmen kann Ihre persönlichen Daten in dem guten Glauben oGenlegen, dass eine solche Maßnahme notwendig ist, um:
+ 
+• Erfüllung einer gesetzlichen Verpflichtung
+ 
+• Schutz und Verteidigung der Rechte oder des Eigentums des Unternehmens
+ 
+• Vorbeugung oder Untersuchung von möglichem Fehlverhalten im
+Zusammenhang mit dem Dienst
+ 
+• Schutz der persönlichen Sicherheit von Nutzern des Dienstes oder der
+   
+Öffentlichkeit
+ 
+• Schutz vor rechtlicher Haftung
+   
+Sicherheit Ihrer persönlichen Daten
+ 
+Die Sicherheit Ihrer persönlichen Daten ist uns wichtig, aber denken Sie daran, dass keine Methode der Übertragung über das Internet oder der elektronischen Speicherung 100% sicher ist. Wir bemühen uns zwar, Ihre personenbezogenen Daten mit wirtschaftlich vertretbaren Mitteln zu schützen, können aber keine absolute Sicherheit garantieren.
+   
+Datenschutz für Kinder
+ 
+Unser Service richtet sich nicht an Personen unter 13 Jahren. Wir sammeln nicht wissentlich personenbezogene Daten von Personen unter 13 Jahren. Wenn Sie ein Elternteil oder Erziehungsberechtigter sind und wissen, dass Ihr Kind uns personenbezogene Daten zur Verfügung gestellt hat, kontaktieren Sie uns bitte. Wenn uns bekannt wird, dass wir personenbezogene Daten von Personen unter 13 Jahren ohne Überprüfung der elterlichen Zustimmung erfasst haben, ergreifen wir Maßnahmen, um diese Daten von unseren Servern zu entfernen.
+Wenn wir uns auf die Zustimmung als Rechtsgrundlage für die Verarbeitung Ihrer Daten stützen müssen und Ihr Land die Zustimmung eines Elternteils erfordert, können wir die Zustimmung Ihres Elternteils verlangen, bevor wir diese Daten sammeln und verwenden.
+
+    Links zu anderen Websites
+Unser Service kann Links zu anderen Websites enthalten, die nicht von uns betrieben werden. Wenn Sie auf einen Link einer dritten Partei klicken, werden Sie auf die Seite dieser dritten Partei weitergeleitet. Wir empfehlen Ihnen dringend, die Datenschutzrichtlinien jeder von Ihnen besuchten Website zu lesen.
+
+  
+Wir haben keine Kontrolle über und übernehmen keine Verantwortung für den Inhalt, die Datenschutzrichtlinien oder Praktiken von Websites oder Diensten Dritter.
+Änderungen an dieser Datenschutzrichtlinie
+  
+Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Wir werden Sie über alle Änderungen informieren, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen.
+ 
+Wir werden Sie per E-Mail und/oder durch einen auffälligen Hinweis in unserem Dienst informieren, bevor die Änderung in Kraft tritt, und das Datum der letzten Aktualisierung am Anfang dieser Datenschutzrichtlinie aktualisieren.
+Sie sollten diese Datenschutzrichtlinie regelmäßig auf Änderungen überprüfen. Änderungen an dieser Datenschutzrichtlinie werden wirksam, wenn sie auf dieser Seite veröffentlicht werden.
+   
+Kontaktieren Sie uns
+ 
+Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, können Sie uns kontaktieren:
+ 
+• Mit E-Mail: Kontakt@ComeBack-Plus.de
